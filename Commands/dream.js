@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'dream',
+    description: "hate to dream",
+    execute(message, args){
+        message.channel.send('So I was having online classes with my camera turned off when I started hearing a little whistle from one of the students in the background that seemed very familiar, but I couldn\'t put my finger on it. The whistling stopped for a couple of minutes until I started hearing it again, and then I knew exactly what it was: it was the chorus of Dream\'s hit song \'Mask\'. I immediately ripped off all my clothes and started furiously stroking my fully erect penis for a good 10 min, even sticking my Dream body pillow up my rectum, imagining that it was Daddy Dream penetrating me while whistling his hit song \'Mask\'. It honestly were the greatest 10 minutes of my life, until my libido reached its climax and I let out a gigaload of cum for Daddy Dream that landed on the phone\'s screen and ended up turning on the mic and camera, and everyone stared horrified at me, screaming at the sight of my honest and earnest love expression to Dream. I was kicked out of the class by the dreamphobic teacher, and today the school principal called me and my parents to a meeting and told us that I may be expelled from the school, merely from expressing my gender and sexuality. What can I do about this?!?!? Was I in the wrong for expressing my gender and identity??!? (Only serious answers, please).')
+    }
+}
