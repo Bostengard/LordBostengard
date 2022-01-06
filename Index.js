@@ -214,11 +214,6 @@ bot.on('message', message => {
             console.log("warn :" + message.author.id + " || " + message.author.tag + " || " + message.guild.name + " || " + date);
             break;
 
-        case "music":
-            bot.commands.get("music").execute(message, args);
-            break;
-
-
     }}
 
 });
